@@ -1,0 +1,8 @@
+{
+  "name": "School Website",
+  "description": "An interactive, elegant, and modern website for Pinecrest Academy featuring academic programs, tuition estimators, enrollment inquiries, an events calendar, and an admissions staff dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
